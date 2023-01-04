@@ -1,1 +1,1 @@
-Because the maze solver program requires thorough explanation, I've organized it in the presentation "Maze Solver Using Uninformed and Informed Searches.pptx" for convenience. For accessibility, I've moved my section of the project into this public respistory.
+Because the maze solver program requires thorough explanation, I've organized it in the presentation "Maze Solver Using Uninformed and Informed Searches.pptx" for convenience. For accessibility, I've moved my section of the project into this public repository.
